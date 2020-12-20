@@ -1,0 +1,7 @@
+﻿l_english:
+ garrison:0 "Direct garrison"
+ garrison_desc:0 "It is infantry which specializes in defense and is not suited to the offense."
+ militia:0 "Militia"
+ militia_desc:0 "The militia is made up of untrained civilians and used in emergency situations."
+ police_infantry:0 "National military police"
+ police_infantry_desc:0 "A police force mobilized to maintain security."
